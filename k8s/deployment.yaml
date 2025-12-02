@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mario
-        image: patnmat/sre-test:mario
+        image: 837126493345.dkr.ecr.ap-northeast-2.amazonaws.com/<goormthon-n>/backend:latest 
 ---
 apiVersion: v1
 kind: Service
